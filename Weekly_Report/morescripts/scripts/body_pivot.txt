@@ -1,0 +1,12 @@
+Hello,
+
+Please find attached the Control-M Usage Report v2.0 mapped to CMDB.
+
+Updated 18-Apr-2016 v2.0 - Removed v7 Tab as v7 Control-M EM is migrated to v8.
+Updated 10-Aug-2015 v1.2 - Added Two new Sheets with Sum of each CMDb associated with Control-M Jobs.
+Updated 27-Jul-2015 v1.1 - Added the Sort feature on Control-M Application for viewing Prod and Non-Prod values next to each other.
+
+For any issues/recommendations to the Report, please write to Control-M Team at below mentioned email address.
+
+Regards,
+Control-M Admin Team | im_total_controlm.in@capgemini.com
