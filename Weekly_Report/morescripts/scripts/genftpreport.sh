@@ -21,8 +21,8 @@ fi
 
 ftpfile=all_dc_week8p.csv
 
-#Sending the file to FTP Dir
-sftp ftp_user@10.126.48.237 <<EOF
+#Sending the file to FTP Dir on ap70
+sftp ftp_user@<some-server> <<EOF
 ascii
 lcd $DATA_DIR
 cd usage_reporting
