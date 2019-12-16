@@ -362,7 +362,7 @@ SCRIPTS_DIR=/soft/cemp8001/scripts/morescripts/scripts
 DATA_DIR=/soft/cemp8001/scripts/morescripts/data
 
 export LANG=en_US
-export PGPASSWORD=Coefar88
+export PGPASSWORD=<SomePassword>
 . /soft/cemp8001/ctm_em/.PGenv.sh
 
 loop=0
